@@ -1,1 +1,3 @@
-print("wassup")
+import pygame
+
+pygame.init()
